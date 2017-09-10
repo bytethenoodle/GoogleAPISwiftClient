@@ -1,4 +1,4 @@
-platform :ios, '9.0'
+platform :osx, '10.12'
 use_frameworks!
 
 target 'GoogleClient' do
